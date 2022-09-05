@@ -392,3 +392,15 @@ p{
     flex-direction: row;
     justify-content: space-around;
 }
+.publicaciones-botones-bottom{
+    color:rgb(255, 255, 255);  
+    border-radius: 5px;
+    border: 1px solid rgb(35, 35, 35);
+    width: 100%;
+    background-color: rgb(35, 35, 35);
+   
+}
+.publicaciones-botones-bottom:hover{
+    background-color: rgb(143, 140, 140);
+    transition-duration: 0.4s;
+}
